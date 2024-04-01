@@ -48,10 +48,9 @@ hr.dotted {
   color: #fff;
   background-color: #fe1493;
   border: none;
-  border-radius: 3px;
+  border-radius: 45px;
   box-shadow: 0 4px #f8ff00;
   animation: wiggle 2s linear infinite;
-  
 }
 
 .button:hover {
